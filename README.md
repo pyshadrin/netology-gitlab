@@ -24,34 +24,17 @@
 
 ### Задание 1
 
-![image](https://github.com/user-attachments/assets/17356c3e-3133-49b4-92c5-717aaa0a49d7)
-![image](https://github.com/user-attachments/assets/15f6e0b0-157f-41d8-a853-12159257c2b2)
-
+![image](https://github.com/user-attachments/assets/3c0a4f39-8c7e-487a-9d2c-756fcddd2fb9)
+![image](https://github.com/user-attachments/assets/2bdea135-831b-4f08-bec1-681e87f92d4e)
 
 ---
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
+![image](https://github.com/user-attachments/assets/49979578-ed4c-416a-844c-6c3038a8b08b)
+![image](https://github.com/user-attachments/assets/d31c5ccb-6fda-4924-8bc0-152123287ec1)
+![image](https://github.com/user-attachments/assets/313c5f4a-c206-4c3d-b741-ee6646214ed0)
+![image](https://github.com/user-attachments/assets/5cc02e8e-2beb-476d-b463-88495519e2ad)
 
 ---
 
